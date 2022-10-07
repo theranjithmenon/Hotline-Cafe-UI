@@ -28,7 +28,7 @@ class _HomeState extends State<Home> {
             children: [
               const Text(
                 "Hotline Cafe",
-                style: TextStyle(fontSize: 28, fontWeight: FontWeight.w700),
+                style: TextStyle(fontSize: 24, fontWeight: FontWeight.w700),
               ),
               const Spacer(),
               IconButton(

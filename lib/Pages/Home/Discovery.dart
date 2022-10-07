@@ -15,7 +15,7 @@ class Discovery extends StatelessWidget {
               children: [
                 const Text(
                   "Explore",
-                  style: TextStyle(fontSize: 28, fontWeight: FontWeight.w700),
+                  style: TextStyle(fontSize: 24, fontWeight: FontWeight.w700),
                 ),
                 const Spacer(),
                 IconButton(

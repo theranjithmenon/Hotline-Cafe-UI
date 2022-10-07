@@ -80,6 +80,8 @@ flutter:
     - assets/images/splash/
     - assets/images/LogIn/
     - assets/images/Home/
+    - assets/images/Home/Play/
+    - assets/images/Home/Profile/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
