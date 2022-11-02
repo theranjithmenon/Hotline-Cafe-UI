@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData.dark(),
       debugShowCheckedModeBanner: false,
-      home: isLoggedIn ? NavBar() : OnBoardingScreen(),
+      home: isLoggedIn ? const NavBar() : const OnBoardingScreen(),
     );
   }
 }
